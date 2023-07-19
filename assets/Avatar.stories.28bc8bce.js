@@ -1,0 +1,2 @@
+import{A as t}from"./index.542f9bbc.js";import"./index.c64bf6f5.js";import"./iframe.f3e2f7dc.js";import"./index.3d6b23ad.js";import"./jsx-runtime.db8ed6c5.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/orodrigosouzadev.png",alt:"Rodrigo Souza"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.28bc8bce.js.map
